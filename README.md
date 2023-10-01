@@ -1,5 +1,3 @@
-# IESC-E Library
-
 A e-library system built with Nest.js.
 
 ## Project Environment
